@@ -1,4 +1,4 @@
-# Job Listing Project
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/32989554-e7ea-4f36-ab43-1c86cd5b1468" /># Job Listing Project
 
 This is a CRUD Job Listing project made using React.
 
@@ -35,9 +35,53 @@ npm run dev
 npm run build
 ```
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/af138152-5a72-4d0b-bf33-6c08786d57d3" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Preview Production Build
 
 ```bash
 npm run preview
 ```
 (Will try to deploy this project after modifying it to use an actual backend)
+

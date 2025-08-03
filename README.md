@@ -34,7 +34,9 @@ npm run dev
 npm run build
 ```
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/af138152-5a72-4d0b-bf33-6c08786d57d3" />
+Architecture
+
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/af138152-5a72-4d0b-bf33-6c08786d57d3" />
 
 
 
@@ -83,6 +85,7 @@ npm run build
 npm run preview
 ```
 (Will try to deploy this project after modifying it to use an actual backend)
+
 
 
 
